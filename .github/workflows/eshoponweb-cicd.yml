@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-vijaya
   LOCATION: eastasia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: e03111aa-3890-43c6-b85d-817205c5cf6
-  WEBAPP-NAME: az400-webapp-vijaya
+  SUBSCRIPTION-ID: e03111aa-3890-43c6-b85d-817205fc5cf6
+  WEBAPP-NAME: az400-webapp-vijaya83
 
 
 jobs:
